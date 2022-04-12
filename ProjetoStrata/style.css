@@ -164,7 +164,7 @@ code{
     width: 35%;
     padding: 124px 54px 72px;
     box-sizing: border-box;
-    backgroun-color: rgb(138, 20, 21);
+    background-image: url(../images/overlay.png), url(../images/bg.jpg);
     background-position: left top;
     background-size: auto, cover;
     text-align: right;
